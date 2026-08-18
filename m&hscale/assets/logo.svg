@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="M&amp;H Scale">
+  <rect width="600" height="600" fill="#050505"/>
+
+  <g font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" fill="#FFFFFF">
+
+    <!-- M&H — small, refined, sits above like a signature -->
+    <text x="300" y="255"
+          font-size="52"
+          font-weight="500"
+          text-anchor="middle"
+          letter-spacing="-1">
+      M&amp;H
+    </text>
+
+    <!-- SCALE — the hero, wide and confident -->
+    <text x="300" y="365"
+          font-size="112"
+          font-weight="800"
+          text-anchor="middle"
+          letter-spacing="-4">
+      SCALE
+    </text>
+
+  </g>
+</svg>
